@@ -1,0 +1,45 @@
+/* Sheldon Hung CSS document */
+
+body{
+    background: wheat;
+    color: darkolivegreen;
+}
+
+p{
+    color: cadetblue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+ul{
+    background-color: rgb(171, 165, 155);
+    color: rgb(34, 40, 50);
+    font-family: monospace;
+    border: 2px solid;
+}
+
+table{
+    background: rgb(171, 165, 155);
+    color: rgb(34, 40, 50);
+    font-family: monospace;
+    border: 2px solid;
+    font-weight: 500;
+}
+
+a:link, a:visited, a:active{
+    color:darkslategrey
+}
+
+a:hover{
+    font-size: 150%;
+    background: rgb(44, 77, 101);
+    font-family: monospace;
+    color: rgb(172, 217, 232);
+    text-decoration: none;
+}
+
+.caution{
+    font-size: 200%;
+    color: red;
+}

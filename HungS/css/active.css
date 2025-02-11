@@ -1,0 +1,86 @@
+a{
+    display: block;
+    text-align: center;
+    color: rgb(170, 210, 246);
+}
+
+a:hover {
+    color: rgb(192, 255, 171);
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+body{
+    width: 100%;
+    background: rgb(70, 90, 143);
+    text-shadow: 0 0 3px rgb(43, 63, 117), 0 0 5px rgb(70, 90, 143);
+    color: rgb(202, 209, 230);
+}
+
+hr {
+    color: rgb(202, 209, 230);
+}
+
+h1 {
+    font-weight: bold;
+    text-align: left;
+}
+
+
+p {
+    background: rgb(43, 63, 117);
+    
+    border-radius: 10px;
+    border-block: 5px;
+    border-block-color: rgb(43, 63, 117);
+    border-inline: 7.5px;
+    border-inline-color: rgb(43, 63, 117);
+    border-style: solid;
+    
+    text-shadow: 0 0 3px rgb(43, 63, 117), 0 0 5px rgb(70, 90, 143);
+    text-align: justify;
+    font-family: sans-serif;
+    color: rgb(202, 209, 230);
+
+}
+
+ol {
+    background: rgb(43, 63, 117);
+    
+    border-radius: 10px;
+    border-block: 5px;
+    border-block-color: rgb(43, 63, 117);
+    border-inline: 5px;
+    border-inline-color: rgb(43, 63, 117);
+    border-style: solid;
+    
+    text-shadow: 0 0 3px rgb(43, 63, 117), 0 0 5px rgb(70, 90, 143);
+    text-align: justify;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(202, 209, 230);
+
+}
+
+.coloredTable tr {
+    background: rgb(43, 63, 117);
+
+    border-radius: 10px;
+    border-block: 5px;
+    border-block-color: rgb(43, 63, 117);
+    border-inline: 7.5px;
+    border-inline-color: rgb(43, 63, 117);
+    border-style: solid;
+    
+    text-shadow: 0 0 3px rgb(43, 63, 117), 0 0 5px rgb(70, 90, 143);
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(202, 209, 230);
+}
